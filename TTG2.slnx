@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Folder Name="/Элементы решения/" />
+  <Project Path="TTG2.csproj" Id="be7cd260-136f-4b7b-acd8-f01d0850d8c8">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
